@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100);
+
+.ui-widget, .ui-widget .ui-widget {
+	font-size: 90% !important;
+}
+
+label {
+	margin-right: 3px;
+}
+
+div.actions {
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
